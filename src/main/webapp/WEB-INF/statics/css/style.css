@@ -1,0 +1,79 @@
+.my-center{
+    margin-top: 150px;
+}
+.my-system{
+    text-align: center;
+    color: #ff050e;
+    size: 10px;
+}
+
+.search-input {
+    margin: 10px;
+}
+
+.search-icon {
+    color: #ffff00;
+    text-align: right;
+    line-height: 50px;
+    margin-right: -20px;
+}
+
+.search-icon li a {
+    color: #ffff00;
+}
+
+.carousel-inner {
+    text-align: center;
+}
+
+.carousel-inner > .item > a > img, .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img {
+    max-height: 400px;
+    margin: 0 auto;
+}
+
+.threepage {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.logo {
+    margin: 5px 10px;
+}
+
+.nav-center {
+    margin: 0 100px;
+}
+
+.my-margin {
+    margin: 10px 0;
+}
+
+.offset-senter {
+    text-align: center;
+}
+
+.color-red {
+    color: rgba(255, 22, 37, 0.96);
+}
+
+a {
+    color: #000;
+}
+
+.demo{
+    padding: 25px;
+    background-color: #d4f7ff;
+    opacity: 0.2;
+}
+
+.my-pcenter{
+    margin-left:10px;
+}
+
+
+.my-height{
+    height:500px;
+}
+
+
